@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="hey, you are here!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <vscode>pages/index.js</code>
         </p>
       </main>
 
